@@ -1,2 +1,2 @@
 # Admin Dashboard
-# In this chapter you will how to Manange user,models data view,edit,delte 
+# In this chapter you will how to Manange user,models data view,edit,delete 
